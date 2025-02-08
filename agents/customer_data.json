@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "name": "Kari Hansen",
+    "product": "Bilforsikring",
+    "satisfaction_score": 2,
+    "engagement_score": 40,
+    "years_with_bank": 5
+  },
+  {
+    "id": 2,
+    "name": "Ola Nordmann",
+    "product": "Husforsikring",
+    "satisfaction_score": 4,
+    "engagement_score": 75,
+    "years_with_bank": 3
+  },
+  {
+    "id": 3,
+    "name": "Lise Berg",
+    "product": "Reiseforsikring",
+    "satisfaction_score": 1,
+    "engagement_score": 30,
+    "years_with_bank": 2
+  }
+]
